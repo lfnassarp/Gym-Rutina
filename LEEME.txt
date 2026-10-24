@@ -1,0 +1,17 @@
+GYM RUTINA — app de entrenamiento instalable
+
+Todos los archivos van sueltos, sin carpetas. Para publicarla en GitHub Pages:
+
+1. En github.com crea un repositorio nuevo, público, llamado "gym-rutina".
+   (Si ya habías creado "carga", entra a Settings y cámbiale el nombre a "gym-rutina".)
+2. Toca "uploading an existing file" (o Add file > Upload files), selecciona TODOS estos
+   archivos (Ctrl+A) y arrástralos. No subas el .zip. Guarda con "Commit changes".
+3. Ve a Settings > Pages. En "Branch" elige "main" y "/ (root)" y toca Save.
+4. En uno o dos minutos queda en: https://TU-USUARIO.github.io/gym-rutina/
+
+Para instalarla:
+- iPhone: abre el link en Safari > Compartir > "Agregar a inicio".
+- Android: abre el link en Chrome > menú ⋮ > "Instalar app".
+
+Tus datos (rutinas, sesiones, actividades, récords) quedan solo en tu celular, nunca en GitHub.
+Usa Plan > Respaldo > Exportar copia de vez en cuando.
